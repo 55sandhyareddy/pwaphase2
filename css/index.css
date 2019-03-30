@@ -1,0 +1,35 @@
+body{
+  background:#6E6768;
+}
+header{
+font-size:25px;
+text-align: center;
+background:#EE819C;
+font-style:oblique;
+}
+img{
+  width:10%;
+  height:10%;
+  float: right;
+}
+a{
+  float:right;
+}
+.child{
+  width:200px;
+  height:200px;
+  padding:1%;
+  margin:1%;
+  border:3px solid #fff;
+  display:block;
+  text-align:center;
+  background-color:#EE819C;
+  justify-content: space-around;
+}
+.child img{
+  width:100px;
+  height:100px;
+}
+.link{
+  color:#6E6768;
+}

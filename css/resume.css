@@ -1,0 +1,29 @@
+body{
+  background:grey;
+}
+.parent{
+  width:100%;
+  border:1px solid #F5B041;
+  display: flex;
+  flex-wrap: wrap;
+}
+.left{
+  width:40%;
+  border:2px solid #1713DC ;
+  margin:2%;
+  padding:3%;
+  text-align:left;
+  background:white;
+}
+.right{
+  width:30%;
+  border:2px solid #1713DC ;
+  margin:2%;
+  padding:3%;
+  text-align:left;
+  background:white;
+}
+img{
+  width:30%;
+  height:30%;
+}

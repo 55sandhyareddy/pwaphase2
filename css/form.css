@@ -1,0 +1,42 @@
+body{
+  background:#6E6768;
+}
+.parent{
+  width:100%;
+  border:1px solid #F5B041;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.career{
+  width:90%;
+  border:2px solid #1713DC ;
+  margin:2%;
+  padding:3%;
+  text-align: center;
+  background: #13DCBC;
+}
+.details{
+  width:40%;
+  margin:2%;
+  padding:2%;
+  border:2px solid #1713DC ;
+    background: #13DCBC;
+}
+.Skills{
+  width:80%;
+  border:2px solid #1713DC;
+  margin:2%;
+  padding:3%;
+  /* border:pink; */
+  background: #13DCBC;
+
+}
+#button{
+  font weight:bold;
+  font size:20px;
+}
+input,select{
+  width:80%;
+  margin:2%;
+}
